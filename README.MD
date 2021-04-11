@@ -1,4 +1,4 @@
-# Meus Estudos Curso JavaScript e TypeScript do Basico ao Avançado
+# Meus Estudos Curso JavaScript do Basico ao Avançado
 >Colocando tudo aquilo que aprendo no curso em prática
 
 ![timer.png](images/timer.PNG "Timer")
